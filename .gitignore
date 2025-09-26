@@ -137,3 +137,14 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+**/node_modules
+**/.env
+**/.DS_Store
+**/.next/
+**/out/
+**/build
+*.tsbuildinfo
+next-env.d.ts
+**/.pem
